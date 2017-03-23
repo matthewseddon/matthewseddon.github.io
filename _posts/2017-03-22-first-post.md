@@ -2,7 +2,7 @@
 layout: post
 title:  "Scipy distance and rdkit fingerprints"
 date:   2017-03-22 18:10:21 +0000
-categories: first post
+categories: chemoinformatics
 ---
 This is the test first post of the blog. As an example I am using a question that was sent to the rdkit users email list. The question was regarding comparing bit vectors as numpy arrays. The great thing about scipy and rdkit is that you don't need to have to convert between the fingerprints and numpy arrays.
 
